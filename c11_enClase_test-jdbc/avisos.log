@@ -1,0 +1,58 @@
+[2022-03-11 15:22:28] [ DEBUG] [Main:46] Creating table in given database...
+[2022-03-11 15:23:02] [ INFO ] [Main:46] Creating table in given database...
+[2022-03-11 15:25:28] [ INFO ] [Main:44] Creating table in given database...
+[2022-03-11 16:52:05] [ ERROR] [ObjetoDeAccesoADatos:26] Syntax error in SQL statement "CREATE TABLE IF NOT EXISTS USUARIOS (ID INT PRIMARY KEY AUTOINCREMENT[*], NOMBRE VARCHAR(20),APELLIDO VARCHAR(20),EDAD INT)"; expected "HASH, AUTO_INCREMENT, NOT, NULL, COMMENT, CHECK, REFERENCES, ,, )"; SQL statement:
+CREATE TABLE IF NOT EXISTS usuarios (id INT PRIMARY KEY AUTOINCREMENT, nombre VARCHAR(20),apellido VARCHAR(20),edad INT) [42001-200]
+[2022-03-11 16:53:13] [ ERROR] [ObjetoDeAccesoADatos:26] Column count does not match; SQL statement:
+INSERT INTO usuarios VALUES('Sebastian', 'Vettel', 33) [21002-200]
+[2022-03-11 16:54:43] [ ERROR] [ObjetoDeAccesoADatos:26] Column count does not match; SQL statement:
+INSERT INTO usuarios VALUES('Sebastian', 'Vettel', 33) [21002-200]
+[2022-03-11 16:55:59] [ INFO ] [ObjetoDeAccesoADatos:23] Vettel
+[2022-03-11 17:00:20] [ ERROR] [ObjetoDeAccesoADatos:26] Syntax error in SQL statement "ALTER TABLE USUARIOSDROP COLUMN[*] APELLIDO"; expected "., ADD, SET, RENAME, DROP, ALTER"; SQL statement:
+ALTER TABLE usuariosDROP COLUMN apellido [42001-200]
+[2022-03-11 17:00:39] [ ERROR] [ObjetoDeAccesoADatos:26] Column "apellido" not found [42122-200]
+[2022-05-26 17:17:42] [ INFO ] [Main:47] Creating table in given database...
+[2022-05-26 17:19:08] [ INFO ] [Main:47] Creating table in given database...
+[2022-05-26 17:19:25] [ INFO ] [Main:47] Creating table in given database...
+[2022-05-26 17:21:57] [ INFO ] [Main:47] Creating table in given database...
+[2022-05-26 17:22:06] [ INFO ] [Main:47] Creating table in given database...
+[2022-05-26 17:22:06] [ ERROR] [Main:66] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ANIMALITOS(ID) [5, 'JuanPa', 'paloma']"; SQL statement:
+INSERT INTO animalitos VALUES(5, 'JuanPa', 'paloma') [23505-200]
+[2022-05-26 17:24:21] [ ERROR] [Main:66] Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-200]
+[2022-05-26 17:24:36] [ INFO ] [Main:47] Creating table in given database...
+[2022-05-26 18:47:15] [ ERROR] [Main:70] Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-200]
+[2022-05-26 18:48:36] [ INFO ] [Main:49] Creating table in given database...
+[2022-05-26 18:50:53] [ INFO ] [Main:49] Creating table in given database...
+[2022-05-26 18:50:53] [ ERROR] [Main:70] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ANIMALITOS(ID) [6, 'Pompilia', 'perro']"; SQL statement:
+INSERT INTO animalitos VALUES(6, 'Pompilia', 'perro') [23505-200]
+[2022-05-26 18:52:54] [ INFO ] [Main:49] Creating table in given database...
+[2022-05-26 18:54:55] [ INFO ] [Main:49] Creating table in given database...
+[2022-05-26 18:55:38] [ INFO ] [Main:49] Creating table in given database...
+[2022-05-27 20:54:44] [ INFO ] [Test:53] Tabla creada :)
+[2022-05-27 20:54:44] [ ERROR] [Test:77] UPS!!! Column "LIA" not found; SQL statement:
+INSERT INTO USUARIO (ID, PRIMER_NOMBRE, APELLIDO, EDAD) VALUES (1, Lia, Luz, 55) [42122-200]
+[2022-05-27 20:54:44] [ INFO ] [Test:80] -- Fin del programa --
+[2022-05-27 20:57:34] [ INFO ] [Test:53] Tabla creada :)
+[2022-05-27 20:57:48] [ INFO ] [Test:59] Se han registrado 3 usuarios.
+[2022-05-27 20:57:48] [ ERROR] [Test:77] UPS!!! Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
+[2022-05-27 20:57:48] [ INFO ] [Test:80] -- Fin del programa --
+[2022-05-27 20:58:08] [ INFO ] [Test:53] Tabla creada :)
+[2022-05-27 20:59:06] [ ERROR] [Test:77] UPS!!! Column "PILH" not found; SQL statement:
+INSERT INTO USUARIO (ID, PRIMER_NOMBRE, APELLIDO, EDAD) VALUES (3, Pilh, Perez, 75) [42122-200]
+[2022-05-27 20:59:06] [ INFO ] [Test:80] -- Fin del programa --
+[2022-05-27 20:59:26] [ INFO ] [Test:53] Tabla creada :)
+[2022-05-27 20:59:26] [ INFO ] [Test:59] Se han registrado 3 usuarios.
+[2022-05-27 20:59:26] [ ERROR] [Test:77] UPS!!! Column "nombre" not found [42122-200]
+[2022-05-27 20:59:26] [ INFO ] [Test:80] -- Fin del programa --
+[2022-05-27 20:59:59] [ INFO ] [Test:53] Tabla creada :)
+[2022-05-27 20:59:59] [ ERROR] [Test:77] UPS!!! Column "NOMBRE" not found; SQL statement:
+INSERT INTO USUARIO (ID, NOMBRE, APELLIDO, EDAD) VALUES (1, 'Lia', 'Luz', 55) [42122-200]
+[2022-05-27 20:59:59] [ INFO ] [Test:80] -- Fin del programa --
+[2022-05-27 21:00:15] [ INFO ] [Test:53] Tabla creada :)
+[2022-05-27 21:00:15] [ INFO ] [Test:59] Se han registrado 3 usuarios.
+[2022-05-27 21:00:15] [ INFO ] [Test:68] Se han eliminado 1 usuario(s).
+[2022-05-27 21:00:15] [ INFO ] [Test:80] -- Fin del programa --
+[2022-08-11 20:58:46] [ INFO ] [Main:45] Creating table in given database...
+[2022-08-11 21:00:31] [ ERROR] [Main:65] Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ANIMALITOS(ID) [6, 'Pompilia', 'perro']"; SQL statement:
+INSERT INTO animalitos VALUES(6, 'Pompilia', 'perro') [23505-200]
+[2022-08-11 21:01:10] [ INFO ] [Main:45] Creating table in given database...

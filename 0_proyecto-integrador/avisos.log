@@ -1,0 +1,133 @@
+[2022-09-0215:39:20] [ INFO ] [PacienteDaoH2:28] cargando controlador
+[2022-09-0215:39:22] [ ERROR] [PacienteDaoH2:49] Imposible interpretar la constante "DATE" "2 de septiembre"
+Cannot parse "DATE" constant "2 de septiembre"; SQL statement:
+INSERT INTO pacientes(id, nombre, apellido, dni, domicilio, fechaDeIngreso, fechaDeAlta) VALUES(?,?,?,?,?,?,?) [22007-214]
+[2022-09-0215:39:22] [ INFO ] [PacienteDaoH2:51] paciente registrado en BD con exito
+[2022-09-0215:40:59] [ INFO ] [PacienteDaoH2:28] cargando controlador
+[2022-09-0215:41:01] [ ERROR] [PacienteDaoH2:49] Imposible interpretar la constante "DATE" "2/09/22"
+Cannot parse "DATE" constant "2/09/22"; SQL statement:
+INSERT INTO pacientes(id, nombre, apellido, dni, domicilio, fechaDeIngreso, fechaDeAlta) VALUES(?,?,?,?,?,?,?) [22007-214]
+[2022-09-0215:41:01] [ INFO ] [PacienteDaoH2:51] paciente registrado en BD con exito
+[2022-09-0215:44:08] [ INFO ] [PacienteDaoH2:28] cargando controlador
+[2022-09-0215:44:15] [ INFO ] [PacienteDaoH2:28] cargando controlador
+[2022-09-0215:44:17] [ ERROR] [PacienteDaoH2:49] Imposible interpretar la constante "DATE" 
+Cannot parse "DATE" constant ; SQL statement:
+INSERT INTO pacientes(id, nombre, apellido, dni, domicilio, fechaDeIngreso, fechaDeAlta) VALUES(?,?,?,?,?,?,?) [22007-214]
+[2022-09-0215:44:17] [ INFO ] [PacienteDaoH2:51] paciente registrado en BD con exito
+[2022-09-0215:55:04] [ INFO ] [PacienteDaoH2:28] cargando controlador
+[2022-09-0215:55:06] [ INFO ] [PacienteDaoH2:49] generé inserts, los ejecute y cerré mi pstmt
+[2022-09-0219:26:59] [ INFO ] [PacienteDaoH2:29] cargando controlador
+[2022-09-0219:39:02] [ INFO ] [PacienteDaoH2:30] cargando controlador
+[2022-09-0219:39:04] [ INFO ] [PacienteDaoH2:48] generé inserts, los ejecute y cerré mi pstmt
+[2022-09-0219:41:36] [ INFO ] [PacienteDaoH2:30] cargando controlador
+[2022-09-0219:41:37] [ INFO ] [PacienteDaoH2:48] generé inserts, los ejecute y cerré mi pstmt
+[2022-09-0312:37:07] [ INFO ] [PacienteDaoH2:29] cargando controlador
+[2022-09-0312:37:09] [ INFO ] [PacienteDaoH2:33] conectando con la base de datos
+[2022-09-0312:37:09] [ INFO ] [PacienteDaoH2:48] inserté nuevos registros en la tabla <paciente>
+[2022-09-0312:37:09] [ INFO ] [PacienteDaoH2:62] cargando controlador
+[2022-09-0312:37:09] [ INFO ] [PacienteDaoH2:67] conectando con la base de datos
+[2022-09-0312:37:10] [ INFO ] [PacienteDaoH2:72] ejecutando query
+[2022-09-0312:41:29] [ INFO ] [PacienteDaoH2:29] cargando controlador
+[2022-09-0312:41:31] [ INFO ] [PacienteDaoH2:33] conectando con la base de datos
+[2022-09-0312:41:31] [ INFO ] [PacienteDaoH2:48] inserté nuevos registros en la tabla <paciente>
+[2022-09-0312:41:31] [ INFO ] [PacienteDaoH2:62] cargando controlador
+[2022-09-0312:41:31] [ INFO ] [PacienteDaoH2:67] conectando con la base de datos
+[2022-09-0312:41:31] [ INFO ] [PacienteDaoH2:72] ejecutando query
+[2022-09-0312:45:38] [ INFO ] [PacienteDaoH2:29] cargando controlador
+[2022-09-0312:45:39] [ INFO ] [PacienteDaoH2:33] conectando con la base de datos
+[2022-09-0312:45:39] [ INFO ] [PacienteDaoH2:48] inserté nuevos registros en la tabla <paciente>
+[2022-09-0312:45:39] [ INFO ] [PacienteDaoH2:62] cargando controlador
+[2022-09-0312:45:39] [ INFO ] [PacienteDaoH2:67] conectando con la base de datos
+[2022-09-0312:45:39] [ INFO ] [PacienteDaoH2:72] ejecutando query
+[2022-09-0312:46:21] [ INFO ] [PacienteDaoH2:29] cargando controlador
+[2022-09-0312:46:22] [ INFO ] [PacienteDaoH2:33] conectando con la base de datos
+[2022-09-0312:46:22] [ INFO ] [PacienteDaoH2:48] inserté nuevos registros en la tabla <paciente>
+[2022-09-0312:48:40] [ INFO ] [PacienteDaoH2:62] cargando controlador
+[2022-09-0312:48:40] [ INFO ] [PacienteDaoH2:67] conectando con la base de datos
+[2022-09-0312:48:40] [ INFO ] [PacienteDaoH2:72] ejecutando query
+[2022-09-0312:48:47] [ INFO ] [PacienteDaoH2:29] cargando controlador
+[2022-09-0312:48:48] [ INFO ] [PacienteDaoH2:33] conectando con la base de datos
+[2022-09-0312:48:48] [ INFO ] [PacienteDaoH2:48] inserté nuevos registros en la tabla <paciente>
+[2022-09-0312:49:58] [ INFO ] [PacienteDaoH2:29] cargando controlador
+[2022-09-0312:49:59] [ INFO ] [PacienteDaoH2:33] conectando con la base de datos
+[2022-09-0312:49:59] [ INFO ] [PacienteDaoH2:48] inserté nuevos registros en la tabla <paciente>
+[2022-09-0312:49:59] [ INFO ] [PacienteDaoH2:62] cargando controlador
+[2022-09-0312:49:59] [ INFO ] [PacienteDaoH2:67] conectando con la base de datos
+[2022-09-0312:49:59] [ INFO ] [PacienteDaoH2:72] ejecutando query
+[2022-09-0312:51:24] [ INFO ] [PacienteDaoH2:29] cargando controlador
+[2022-09-0312:51:25] [ INFO ] [PacienteDaoH2:33] conectando con la base de datos
+[2022-09-0312:51:25] [ INFO ] [PacienteDaoH2:48] inserté nuevos registros en la tabla <paciente>
+[2022-09-0312:51:26] [ INFO ] [PacienteDaoH2:62] cargando controlador
+[2022-09-0312:51:26] [ INFO ] [PacienteDaoH2:67] conectando con la base de datos
+[2022-09-0312:51:26] [ INFO ] [PacienteDaoH2:72] ejecutando query
+[2022-09-0313:17:09] [ INFO ] [PacienteDaoH2:26] cargando controlador
+[2022-09-0313:17:10] [ INFO ] [PacienteDaoH2:30] conectando con la base de datos
+[2022-09-0313:17:10] [ INFO ] [PacienteDaoH2:45] inserté nuevos registros en la tabla <paciente>
+[2022-09-0313:17:10] [ INFO ] [PacienteDaoH2:58] cargando controlador
+[2022-09-0313:17:10] [ INFO ] [PacienteDaoH2:63] conectando con la base de datos
+[2022-09-0313:17:10] [ INFO ] [PacienteDaoH2:69] ejecutando sentencia
+[2022-09-0313:18:08] [ INFO ] [PacienteDaoH2:26] cargando controlador
+[2022-09-0313:18:09] [ INFO ] [PacienteDaoH2:30] conectando con la base de datos
+[2022-09-0313:18:09] [ INFO ] [PacienteDaoH2:45] inserté nuevos registros en la tabla <paciente>
+[2022-09-0313:18:09] [ INFO ] [PacienteDaoH2:58] cargando controlador
+[2022-09-0313:18:09] [ INFO ] [PacienteDaoH2:63] conectando con la base de datos
+[2022-09-0313:18:09] [ INFO ] [PacienteDaoH2:69] ejecutando sentencia
+[2022-09-0313:20:06] [ INFO ] [PacienteDaoH2:26] cargando controlador
+[2022-09-0313:20:08] [ INFO ] [PacienteDaoH2:30] conectando con la base de datos
+[2022-09-0313:20:08] [ ERROR] [PacienteDaoH2:50] hubo un problema con el prepared statementViolación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.PACIENTES(ID) ( /* key:0 */ 1, 'Maru', 'Gerva', '123456789', 'Domicilio{id=1, calle=''calle'', numero=1, localidad=''san isidro'', provincia=''bs as''}', DATE '2022-08-01', DATE '2022-09-03')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.PACIENTES(ID) ( /* key:0 */ 1, 'Maru', 'Gerva', '123456789', 'Domicilio{id=1, calle=''calle'', numero=1, localidad=''san isidro'', provincia=''bs as''}', DATE '2022-08-01', DATE '2022-09-03')"; SQL statement:
+INSERT INTO pacientes(id, nombre, apellido, dni, domicilio, fechaDeIngreso, fechaDeAlta) VALUES(?,?,?,?,?,?,?) [23505-214]
+[2022-09-0313:21:20] [ INFO ] [PacienteDaoH2:58] cargando controlador
+[2022-09-0313:21:20] [ INFO ] [PacienteDaoH2:63] conectando con la base de datos
+[2022-09-0313:21:20] [ INFO ] [PacienteDaoH2:69] ejecutando sentencia
+[2022-09-0313:21:39] [ INFO ] [PacienteDaoH2:26] cargando controlador
+[2022-09-0313:21:40] [ INFO ] [PacienteDaoH2:30] conectando con la base de datos
+[2022-09-0313:21:40] [ ERROR] [PacienteDaoH2:50] hubo un problema con el prepared statementViolación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.PACIENTES(ID) ( /* key:0 */ 1, 'Maru', 'Gerva', '123456789', 'Domicilio{id=1, calle=''calle'', numero=1, localidad=''san isidro'', provincia=''bs as''}', DATE '2022-08-01', DATE '2022-09-03')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.PACIENTES(ID) ( /* key:0 */ 1, 'Maru', 'Gerva', '123456789', 'Domicilio{id=1, calle=''calle'', numero=1, localidad=''san isidro'', provincia=''bs as''}', DATE '2022-08-01', DATE '2022-09-03')"; SQL statement:
+INSERT INTO pacientes(id, nombre, apellido, dni, domicilio, fechaDeIngreso, fechaDeAlta) VALUES(?,?,?,?,?,?,?) [23505-214]
+[2022-09-0313:23:32] [ INFO ] [PacienteDaoH2:58] cargando controlador
+[2022-09-0313:23:32] [ INFO ] [PacienteDaoH2:63] conectando con la base de datos
+[2022-09-0313:23:32] [ INFO ] [PacienteDaoH2:69] ejecutando sentencia
+[2022-09-0313:23:34] [ INFO ] [PacienteDaoH2:26] cargando controlador
+[2022-09-0313:23:35] [ INFO ] [PacienteDaoH2:30] conectando con la base de datos
+[2022-09-0313:23:35] [ ERROR] [PacienteDaoH2:50] hubo un problema con el prepared statementViolación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.PACIENTES(ID) ( /* key:0 */ 1, 'Maru', 'Gerva', '123456789', 'Domicilio{id=1, calle=''calle'', numero=1, localidad=''san isidro'', provincia=''bs as''}', DATE '2022-08-01', DATE '2022-09-03')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.PACIENTES(ID) ( /* key:0 */ 1, 'Maru', 'Gerva', '123456789', 'Domicilio{id=1, calle=''calle'', numero=1, localidad=''san isidro'', provincia=''bs as''}', DATE '2022-08-01', DATE '2022-09-03')"; SQL statement:
+INSERT INTO pacientes(id, nombre, apellido, dni, domicilio, fechaDeIngreso, fechaDeAlta) VALUES(?,?,?,?,?,?,?) [23505-214]
+[2022-09-0313:23:35] [ INFO ] [PacienteDaoH2:58] cargando controlador
+[2022-09-0313:23:35] [ INFO ] [PacienteDaoH2:63] conectando con la base de datos
+[2022-09-0313:23:35] [ INFO ] [PacienteDaoH2:69] ejecutando sentencia
+[2022-09-0319:26:26] [ INFO ] [PacienteDaoH2:28] levantando driver
+[2022-09-0319:26:28] [ INFO ] [PacienteDaoH2:30] conectando con la base de datos
+[2022-09-0319:29:49] [ INFO ] [PacienteDaoH2:28] levantando driver
+[2022-09-0319:29:50] [ INFO ] [PacienteDaoH2:30] conectando con la base de datos
+[2022-09-0319:29:50] [ INFO ] [PacienteDaoH2:42] inserté nuevos registros en tabla DOMICILIOS
+[2022-09-0319:29:50] [ INFO ] [PacienteDaoH2:35] levantando driver
+[2022-09-0319:29:50] [ INFO ] [PacienteDaoH2:37] conectando con la base de datos
+[2022-09-0319:29:50] [ INFO ] [PacienteDaoH2:28] levantando driver
+[2022-09-0319:29:50] [ INFO ] [PacienteDaoH2:30] conectando con la base de datos
+[2022-09-0319:29:50] [ INFO ] [PacienteDaoH2:42] inserté nuevos registros en tabla DOMICILIOS
+[2022-09-0319:29:50] [ ERROR] [PacienteDaoH2:70] hubo un problema con el prepared statementColumna "FECHA_INGRESO" no encontrada
+Column "FECHA_INGRESO" not found; SQL statement:
+INSERT INTO pacientes(nombre,apellido,dni,fecha_ingreso,domicilio_id) VALUES(?,?,?,?,?) [42122-214]
+[2022-09-0319:32:06] [ INFO ] [PacienteDaoH2:28] levantando driver
+[2022-09-0319:32:07] [ INFO ] [PacienteDaoH2:30] conectando con la base de datos
+[2022-09-0319:32:07] [ INFO ] [PacienteDaoH2:42] inserté nuevos registros en tabla DOMICILIOS
+[2022-09-0319:32:07] [ INFO ] [PacienteDaoH2:35] levantando driver
+[2022-09-0319:32:07] [ INFO ] [PacienteDaoH2:37] conectando con la base de datos
+[2022-09-0319:32:07] [ INFO ] [PacienteDaoH2:28] levantando driver
+[2022-09-0319:32:07] [ INFO ] [PacienteDaoH2:30] conectando con la base de datos
+[2022-09-0319:32:07] [ INFO ] [PacienteDaoH2:42] inserté nuevos registros en tabla DOMICILIOS
+[2022-09-0319:32:07] [ ERROR] [PacienteDaoH2:70] hubo un problema con el prepared statementColumna "FECHA_INGRESO" no encontrada
+Column "FECHA_INGRESO" not found; SQL statement:
+INSERT INTO pacientes(nombre,apellido,dni,fecha_ingreso,domicilio_id) VALUES(?,?,?,?,?) [42122-214]
+[2022-09-0319:43:56] [ INFO ] [PacienteDaoH2:28] levantando driver
+[2022-09-0319:43:57] [ INFO ] [PacienteDaoH2:30] conectando con la base de datos
+[2022-09-0319:43:57] [ INFO ] [PacienteDaoH2:42] inserté nuevos registros en tabla DOMICILIOS
+[2022-09-0319:43:57] [ INFO ] [PacienteDaoH2:35] levantando driver
+[2022-09-0319:43:57] [ INFO ] [PacienteDaoH2:37] conectando con la base de datos
+[2022-09-0319:43:57] [ INFO ] [PacienteDaoH2:28] levantando driver
+[2022-09-0319:43:57] [ INFO ] [PacienteDaoH2:30] conectando con la base de datos
+[2022-09-0319:43:57] [ INFO ] [PacienteDaoH2:42] inserté nuevos registros en tabla DOMICILIOS
+[2022-09-0319:43:57] [ ERROR] [PacienteDaoH2:70] hubo un problema con el prepared statement: Columna "FECHA_INGRESO" no encontrada
+Column "FECHA_INGRESO" not found; SQL statement:
+INSERT INTO pacientes(nombre,apellido,dni,fecha_ingreso,domicilio_id) VALUES(?,?,?,?,?) [42122-214]

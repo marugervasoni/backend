@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df171fdb-ce47-4fae-bff3-49098573f377" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ENDsTQikQiLRKWMD1C2Din9wMk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CTD\DH\BACKEND1\JAVA\integrador2\src\main\java\com\clinica\integrador2" />
+      <recent name="D:\CTD\DH\BACKEND1\JAVA\integrador2\src\main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.clinica.integrador2.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClinicaOdontologicaApplication">
+    <configuration name="ClinicaOdontologicaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.clinica.integrador2.ClinicaOdontologicaApplication" />
+      <module name="ClinicaOdontologica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clinica.integrador2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OdontologoServiceTest.testCrearOdontologo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClinicaOdontologica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clinica.integrador2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clinica.integrador2.test" />
+      <option name="MAIN_CLASS_NAME" value="com.clinica.integrador2.test.OdontologoServiceTest" />
+      <option name="METHOD_NAME" value="testCrearOdontologo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OdontologoServiceTest.testModificarOdontologo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClinicaOdontologica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clinica.integrador2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clinica.integrador2.test" />
+      <option name="MAIN_CLASS_NAME" value="com.clinica.integrador2.test.OdontologoServiceTest" />
+      <option name="METHOD_NAME" value="testModificarOdontologo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PacienteServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClinicaOdontologica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clinica.integrador2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clinica.integrador2.test" />
+      <option name="MAIN_CLASS_NAME" value="com.clinica.integrador2.test.PacienteServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PacienteServiceTest.testModificarPaciente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ClinicaOdontologica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.clinica.integrador2.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.clinica.integrador2.test" />
+      <option name="MAIN_CLASS_NAME" value="com.clinica.integrador2.test.PacienteServiceTest" />
+      <option name="METHOD_NAME" value="testModificarPaciente" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClinicaOdontologicaApplication" />
+        <item itemvalue="JUnit.PacienteServiceTest" />
+        <item itemvalue="JUnit.PacienteServiceTest.testModificarPaciente" />
+        <item itemvalue="JUnit.OdontologoServiceTest.testCrearOdontologo" />
+        <item itemvalue="JUnit.OdontologoServiceTest.testModificarOdontologo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df171fdb-ce47-4fae-bff3-49098573f377" name="Changes" comment="" />
+      <created>1662427387091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662427387091</updated>
+    </task>
+    <servers />
+  </component>
+</project>
