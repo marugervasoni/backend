@@ -1,0 +1,143 @@
+[2022-08-21 11:39:18] [ ERROR] [OdontologoDaoH2:42] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [42104-214]
+[2022-08-21 11:39:18] [ ERROR] [OdontologoDaoH2:80] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM odontologos [42104-214]
+[2022-08-21 11:39:18] [ ERROR] [OdontologoDaoH2:42] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [42104-214]
+[2022-08-21 11:39:48] [ ERROR] [OdontologoDaoH2:42] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [42104-214]
+[2022-08-21 11:39:48] [ ERROR] [OdontologoDaoH2:80] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM odontologos [42104-214]
+[2022-08-21 11:39:48] [ ERROR] [OdontologoDaoH2:42] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [42104-214]
+[2022-08-21 11:40:20] [ ERROR] [OdontologoDaoH2:42] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:40:20] [ ERROR] [OdontologoDaoH2:80] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:40:20] [ ERROR] [OdontologoDaoH2:42] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:40:55] [ ERROR] [OdontologoDaoH2:42] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:40:55] [ ERROR] [OdontologoDaoH2:80] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:40:55] [ ERROR] [OdontologoDaoH2:42] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:41:44] [ ERROR] [OdontologoDaoH2:42] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:41:44] [ ERROR] [OdontologoDaoH2:80] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:41:44] [ ERROR] [OdontologoDaoH2:42] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:42:15] [ ERROR] [OdontologoDaoH2:42] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:42:15] [ ERROR] [OdontologoDaoH2:80] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:42:15] [ ERROR] [OdontologoDaoH2:42] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:44:54] [ ERROR] [OdontologoDaoH2:42] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:44:54] [ ERROR] [OdontologoDaoH2:80] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:44:54] [ ERROR] [OdontologoDaoH2:42] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:46:21] [ ERROR] [OdontologoDaoH2:42] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:46:21] [ ERROR] [OdontologoDaoH2:80] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:46:21] [ ERROR] [OdontologoDaoH2:42] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:47:43] [ ERROR] [OdontologoDaoH2:42] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:47:43] [ ERROR] [OdontologoDaoH2:80] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:47:43] [ ERROR] [OdontologoDaoH2:42] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:47:51] [ ERROR] [OdontologoDaoH2:42] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:47:52] [ ERROR] [OdontologoDaoH2:80] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:47:52] [ ERROR] [OdontologoDaoH2:42] IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"
+IO Exception: "java.nio.file.NoSuchFileException: create.sql"; "create.sql"; SQL statement:
+RUNSCRIPT FROM 'create.sql' [90031-214]
+[2022-08-21 11:48:01] [ INFO ] [OdontologoDaoH2:33] inserting values in given database...
+[2022-08-21 11:48:01] [ ERROR] [OdontologoDaoH2:42] Parametro "#1" no está fijado
+Parameter "#1" is not set; SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [90012-214]
+[2022-08-21 11:48:01] [ INFO ] [OdontologoDaoH2:33] inserting values in given database...
+[2022-08-21 11:48:01] [ ERROR] [OdontologoDaoH2:42] Parametro "#1" no está fijado
+Parameter "#1" is not set; SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [90012-214]
+[2022-08-21 11:48:08] [ INFO ] [OdontologoDaoH2:33] inserting values in given database...
+[2022-08-21 11:48:08] [ ERROR] [OdontologoDaoH2:42] Parametro "#1" no está fijado
+Parameter "#1" is not set; SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [90012-214]
+[2022-08-21 11:48:08] [ INFO ] [OdontologoDaoH2:33] inserting values in given database...
+[2022-08-21 11:48:08] [ ERROR] [OdontologoDaoH2:42] Parametro "#1" no está fijado
+Parameter "#1" is not set; SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [90012-214]
+[2022-08-21 11:48:48] [ INFO ] [OdontologoDaoH2:34] inserting values in given database...
+[2022-08-21 11:48:48] [ INFO ] [OdontologoDaoH2:34] inserting values in given database...
+[2022-08-21 11:48:48] [ ERROR] [OdontologoDaoH2:43] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:12345 */ 12345, 'Gustavo', 'Cerati')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:12345 */ 12345, 'Gustavo', 'Cerati')"; SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [23505-214]
+[2022-08-21 11:49:16] [ INFO ] [OdontologoDaoH2:34] inserting values in given database...
+[2022-08-21 11:49:16] [ INFO ] [OdontologoDaoH2:34] inserting values in given database...
+[2022-08-21 11:49:16] [ ERROR] [OdontologoDaoH2:43] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:12345 */ 12345, 'Gustavo', 'Cerati')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:12345 */ 12345, 'Gustavo', 'Cerati')"; SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [23505-214]
+[2022-08-21 11:50:54] [ INFO ] [OdontologoDaoH2:34] inserting values in given database...
+[2022-08-21 11:50:54] [ ERROR] [OdontologoDaoH2:43] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:0 */ 12345, 'Gustavo', 'Cerati')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:0 */ 12345, 'Gustavo', 'Cerati')"; SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [23505-214]
+[2022-08-21 11:50:54] [ INFO ] [OdontologoDaoH2:34] inserting values in given database...
+[2022-08-21 11:50:54] [ ERROR] [OdontologoDaoH2:43] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:12345 */ 12345, 'Gustavo', 'Cerati')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:12345 */ 12345, 'Gustavo', 'Cerati')"; SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [23505-214]
+[2022-08-21 11:51:05] [ INFO ] [OdontologoDaoH2:34] inserting values in given database...
+[2022-08-21 11:51:05] [ INFO ] [OdontologoDaoH2:34] inserting values in given database...
+[2022-08-21 11:51:05] [ ERROR] [OdontologoDaoH2:43] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:12345678 */ 12345678, 'Gustavo', 'Cerati')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:12345678 */ 12345678, 'Gustavo', 'Cerati')"; SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [23505-214]
+[2022-08-21 11:51:15] [ INFO ] [OdontologoDaoH2:34] inserting values in given database...
+[2022-08-21 11:51:15] [ ERROR] [OdontologoDaoH2:43] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:0 */ 12345678, 'Gustavo', 'Cerati')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:0 */ 12345678, 'Gustavo', 'Cerati')"; SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [23505-214]
+[2022-08-21 11:51:15] [ INFO ] [OdontologoDaoH2:34] inserting values in given database...
+[2022-08-21 11:51:15] [ ERROR] [OdontologoDaoH2:43] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:12345678 */ 12345678, 'Gustavo', 'Cerati')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:12345678 */ 12345678, 'Gustavo', 'Cerati')"; SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [23505-214]
+[2022-08-21 11:51:18] [ INFO ] [OdontologoDaoH2:34] inserting values in given database...
+[2022-08-21 11:51:18] [ ERROR] [OdontologoDaoH2:43] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:0 */ 12345678, 'Gustavo', 'Cerati')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:0 */ 12345678, 'Gustavo', 'Cerati')"; SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [23505-214]
+[2022-08-21 11:51:18] [ INFO ] [OdontologoDaoH2:34] inserting values in given database...
+[2022-08-21 11:51:18] [ ERROR] [OdontologoDaoH2:43] Violación de indice de Unicidad ó Clave primaria: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:12345678 */ 12345678, 'Gustavo', 'Cerati')"
+Unique index or primary key violation: "PRIMARY KEY ON PUBLIC.ODONTOLOGOS(NUMDEMATRICULA) ( /* key:12345678 */ 12345678, 'Gustavo', 'Cerati')"; SQL statement:
+INSERT INTO odontologos VALUES (?,?,?) [23505-214]
+[2022-08-21 11:51:35] [ INFO ] [OdontologoDaoH2:34] inserting values in given database...
+[2022-08-21 11:51:35] [ INFO ] [OdontologoDaoH2:34] inserting values in given database...
+[2022-08-21 11:51:59] [ INFO ] [OdontologoDaoH2:34] inserting values in given database...
+[2022-08-21 11:51:59] [ INFO ] [OdontologoDaoH2:34] inserting values in given database...
